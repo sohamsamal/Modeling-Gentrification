@@ -1,4 +1,4 @@
-# Modeling Gentrification Process - Checkpoint 2
+# Modeling Gentrification Process
 
 This project simulates the process of gentrification using a Cellular Automata (CA) model. The model tracks changes in household income, property prices, desirability, and vacancy status over time, providing valuable insights into urban dynamics.
 
@@ -58,19 +58,6 @@ We introduced a new stacked bar chart to track the distribution of cell features
 
 The graph relies on data from the `HISTORY` variable to count cell states and track changes over time.
 
----
-
-## Checkpoint 2 Division of Labor
-
-| **Task**                        | **Assigned Member(s)** | **Status**    |
-|----------------------------------|------------------------|---------------|
-| Time-Step Visualization          | Henry                 | Completed     |
-| Unit Testing of Update Functions | Soham                 | Completed     |
-| Whole-Run Testing                | Desirae               | Completed     |
-| Visualization Cleanup            | Nicole                | Completed     |
-| New Graph Implementation         | Aishi                 | Completed     |
-
----
 
 ## Remaining Tasks
 
